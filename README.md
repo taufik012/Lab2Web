@@ -4,6 +4,8 @@
 lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan
 tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.
 
+## Input :
+
 ```py
 <!DOCTYPE html>
 <html>
@@ -65,5 +67,6 @@ tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai piliha
 </html>
 ```
 
+## Output :
 
 ![image](screenshot/1.png)
