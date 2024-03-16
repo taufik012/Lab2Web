@@ -11,7 +11,7 @@ tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai piliha
 <html>
 
 <head>
-    <title>Form Input</title>
+    <title>Lab2web</title>
 </head>
 
 <body>
